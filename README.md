@@ -8,3 +8,6 @@ Upon running the code output is presented in a line graph format which compares 
 <h3>Test code reverse_prediction.py</h3>
 Upon running the code, we can see a picture of a predicted molecule and print its coordinates for a given test case(which takes an input of vibrational_data + other features).
 
+<h1>Publication</h3>
+Our project has been published in ACS Omega (https://pubs.acs.org/doi/10.1021/acsomega.5c02405)
+
